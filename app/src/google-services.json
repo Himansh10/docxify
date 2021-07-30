@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387099214895",
+    "project_id": "docxify-7641d",
+    "storage_bucket": "docxify-7641d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387099214895:android:382358c18336bbf01c32da",
+        "android_client_info": {
+          "package_name": "com.example.docxify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387099214895-92rjbpdrv3cgk5jro7jham415nm61t9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgMnVJ9s7u5Bs4QAoEen2fH1jtMPULm3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387099214895-92rjbpdrv3cgk5jro7jham415nm61t9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
